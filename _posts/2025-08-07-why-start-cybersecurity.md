@@ -1,8 +1,8 @@
 ---
-layout: post
 title: "Why I Started Cybersecurity"
 date: 2025-08-07
 ---
+
 # Why I Started Cybersecurity
 
 This is my first blog post! A start into documenting my progress into cybersecurity.
