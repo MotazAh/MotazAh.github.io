@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Why I Started Cybersecurity"
 date: 2025-08-07
 ---
