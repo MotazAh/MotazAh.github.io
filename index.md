@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to My Cybersecurity Blog
 
-I'm studying for CompTIA Security+ and learning hands-on through TryHackMe.
+My path towards learning cybersecurity
 
 <ul>
   {% for post in site.posts %}
