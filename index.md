@@ -7,4 +7,8 @@ title: Home
 
 I'm studying for CompTIA Security+ and learning hands-on through TryHackMe.
 
-[Read my latest posts](./_posts/)
+<ul>
+  {% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
